@@ -1,0 +1,112 @@
+.button {
+    background-color: #2b4bb3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 190px;
+}
+
+.button:hover {background-color: #4066e0}
+
+.button:active {
+  background-color: #4066e0;
+}
+
+.buttonEdit {
+  background-color: #2b4bb3;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 70px;
+}
+
+.buttonEdit:hover {background-color: #4066e0}
+
+.buttonEdit:active {
+background-color: #4066e0;
+}
+
+.buttonRed {
+  background-color: #a83242;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 70px;
+}
+
+.buttonRed:hover {
+  background-color: #d93f53;
+}
+
+.tableText {
+  font-size: 120%;
+}
+
+.buttonYellow {
+  background-color: 
+  #f5a11b
+  ;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 70px;
+  
+}
+
+
+.buttonYellow:hover {
+  background-color: 
+  #f0af48
+  ;
+}
+
+.buttonGreen {
+  background-color: 
+  #149935
+  ;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 190px;
+}
+
+.buttonGreen:hover {
+  background-color: 
+  #1fa13f
+  ;
+}

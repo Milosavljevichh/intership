@@ -1,0 +1,21 @@
+.h1 {
+    font-family: 'Luckiest Guy', cursive;
+    color:#dee4e7
+  }
+
+  .header {
+    padding: 5%;
+    text-align: center;
+  
+  
+    color: white;
+    font-size: 30px;
+  }
+  
+  .bgColor {
+    background: #dbb7f3;
+  }
+
+  .padding {
+    padding: 30px;
+  }
